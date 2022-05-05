@@ -15,10 +15,10 @@ author: Some Person
 
 navbar-links:
   About Me: "关于我"
-  Resources:
+  资源:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  作者之家: "https://deanattali.com"
 
 # --- Logo --- #
 
