@@ -14,7 +14,7 @@ layout: base
         {% assign gh_repo =  gh_split[1]  %}
 
         <div id="header-gh-btns">
-          {% if page.gh-badge.size > 0 %}
+          <!-- 以后放微信分享 {% if page.gh-badge.size > 0 %}
             {% for badge in page.gh-badge %}
               {% case badge %}
                 {% when 'star'%}
@@ -27,7 +27,7 @@ layout: base
                   <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="20px"></iframe>
               {% endcase %}
             {% endfor %}
-          {% endif %}
+          {% endif %} -->
         </div>
       {% endif %}
 
