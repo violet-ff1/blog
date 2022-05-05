@@ -15,10 +15,10 @@ author: 冰响
 
 navbar-links:
   关于我: "aboutme"
-  资源:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  作者之家: "https://deanattali.com"
+# 资源:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+# 作者之家: "https://deanattali.com"
 
 # --- Logo --- #
 
