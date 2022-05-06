@@ -15,10 +15,10 @@ author: 冰响
 
 navbar-links:
   关于我: "aboutme"
-资源:
+  资源:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-分类: "https://violet-ff1.github.io/beautiful-jekyll/tags/"
+  分类: "https://violet-ff1.github.io/beautiful-jekyll/tags/"
 
 # --- Logo --- #
 
