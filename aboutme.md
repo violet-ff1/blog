@@ -6,11 +6,10 @@ subtitle: This article will help you get to know me ！
 
 我的名字叫叶辉，你们可以叫我小灰灰！（不是灰太狼的小灰灰）
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+我爱我的家人们
+我有可爱的猪猪宝贝
+我有能容下宇宙的梦想
+我有热的滚烫的创造之心
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 我的故事
+我出生于中国西北部边陲地区，酷爱玩土，征服过无数山丘野岭，不喜爱游泳玩水的旱鸭子不是好青蛙，哈哈哈，只是因为我会青蛙式游泳罢了，我可不是你的青蛙王子。
