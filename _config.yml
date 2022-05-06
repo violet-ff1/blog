@@ -41,10 +41,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "y1046553359@163.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# email: "y1046553359@163.com"
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: violet-ff1
+#  github: violet-ff1
 # twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -121,7 +121,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
