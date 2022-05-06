@@ -15,18 +15,19 @@ author: 冰响
 
 navbar-links:
   关于我: "aboutme"
+  分类:
+     - 原生JDBC: "https://violet-ff1.github.io/beautiful-jekyll/tags/#%E5%8E%9F%E7%94%9FJDKBC"
+     - JavaWeb: "https://violet-ff1.github.io/beautiful-jekyll/tags/#books"
  #资源:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
- #分类:
-    #- 原生JDBC: "https://violet-ff1.github.io/beautiful-jekyll/tags/#%E5%8E%9F%E7%94%9FJDKBC"
-    #- JavaWeb: "https://violet-ff1.github.io/beautiful-jekyll/tags/#books"
+ 
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
