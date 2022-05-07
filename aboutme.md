@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Who can I be ?
-subtitle: This article will help you get to know me ！
+subtitle: This article will help you get to know me !
 ---
 
-我的名字叫叶辉，你们可以叫我小灰灰！（不是灰太狼的小灰灰）
+我的名字叫叶辉（不是灰太狼的灰！）
 
 《我》-叶辉
 
