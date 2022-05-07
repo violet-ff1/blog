@@ -6,9 +6,7 @@ subtitle: This article will help you get to know me ！
 
 我的名字叫叶辉，你们可以叫我小灰灰！（不是灰太狼的小灰灰）
 
-《我》
-
-      叶辉
+《我》-叶辉
 
 我爱我的家人们
 
