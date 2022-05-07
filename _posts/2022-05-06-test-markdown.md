@@ -2,7 +2,7 @@
 layout: post
 title: 抽取通用的查询方法，获取entityClass
 subtitle: DAO层创建泛型类，通过DAOImpl传来的实体类，DAO层构造方法使用getClass()获取
-gh-repo: daattali/beautiful-jekyll
+gh-repo: violet-ff1/blog
 gh-badge: [star, fork, follow]
 tags: [原生JDBC]
 comments: true
