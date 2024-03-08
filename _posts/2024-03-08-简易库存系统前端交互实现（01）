@@ -11,7 +11,7 @@ comments: true
 3. 自动计算出合计。
 //表格中单元格的点击事件：单元格变成文本输入，并且鼠标取消焦点将文本内容更新至单元格
 使用计时器得出
-{% endhighlight%}
+{% highlight javascript linenos %}
  function editPrice() {
         //1、 判断是不是获取的td这个元素
         if(event && event.srcElement && event.srcElement.tagName == "TD") {
@@ -32,9 +32,9 @@ comments: true
             }
         }
 }
-{% highlight javascript linenos %}
-//把单元格中的文本内容更新至单元格
 {% endhighlight%}
+//把单元格中的文本内容更新至单元格
+{% highlight javascript linenos %}
    function updatePrice() {
     //1、 判断是不是获取的input这个元素
     if(event && event.srcElement && event.srcElement.tagName == "INPUT") {
@@ -60,8 +60,8 @@ comments: true
         xjTD.innerText = parseInt(priceTD.innerText) * parseInt(numbTD.innerText);
     }
 }
-{% highlight javascript linenos %}
 {% endhighlight%}
+{% highlight javascript linenos %}
 function updateHJ() {
         //获取表格
         var fruitTbl = document.getElementById("fruit_table");
@@ -79,4 +79,4 @@ function updateHJ() {
         //将sum赋值给单元格
         rows[rows.length-1].cells[1].innerText = sum;
 }
-{% highlight javascript linenos %}
+{% endhighlight%}
