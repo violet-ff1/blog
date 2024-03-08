@@ -33,8 +33,8 @@ comments: true
         }
 }
 {% endhighlight%}
-//把单元格中的文本内容更新至单元格
 {% highlight javascript linenos %}
+//把单元格中的文本内容更新至单元格
    function updatePrice() {
     //1、 判断是不是获取的input这个元素
     if(event && event.srcElement && event.srcElement.tagName == "INPUT") {
@@ -48,9 +48,9 @@ comments: true
         updateHJ();
     }
 }
+{% endhighlight%}
 {% highlight javascript linenos %}
 //更新表格中rows[3]的值
-{% endhighlight%}
  function updateXJ(tr) {
     //判断需要更新的tr是否存在
     if(tr && tr.tagName == "TR") {
