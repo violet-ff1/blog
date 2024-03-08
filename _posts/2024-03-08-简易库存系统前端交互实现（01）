@@ -50,7 +50,6 @@ comments: true
 }
 {% endhighlight%}
 //更新表格中rows[3]的值
-{% endhighlight%}
 {% highlight javascript linenos %}
  function updateXJ(tr) {
     //判断需要更新的tr是否存在
@@ -61,8 +60,6 @@ comments: true
         xjTD.innerText = parseInt(priceTD.innerText) * parseInt(numbTD.innerText);
     }
 }
-{% endhighlight%}
-
 {% endhighlight%}
 {% highlight javascript linenos %}
 function updateHJ() {
