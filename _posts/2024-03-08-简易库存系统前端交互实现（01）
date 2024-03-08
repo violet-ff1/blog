@@ -9,9 +9,10 @@ comments: true
 1. 给单价加点击事件，点击出现文本框可以输入，保存输入的值。
 2. 自动计算出小计。
 3. 自动计算出合计。
+
+```
 //表格中单元格的点击事件：单元格变成文本输入，并且鼠标取消焦点将文本内容更新至单元格
 使用计时器得出
-```
  function editPrice() {
         //1、 判断是不是获取的td这个元素
         if(event && event.srcElement && event.srcElement.tagName == "TD") {
@@ -70,7 +71,7 @@ function updateHJ() {
                 //合计所有列的td[3]
                 sum = sum + parseInt(xj.innerText);
         }
-        //将sum赋值给单元格
+        //将sum赋```值给单元格
         rows[rows.length-1].cells[1].innerText = sum;
 }
 ```
