@@ -1,0 +1,19 @@
+---
+layout: post
+title: 客户端与服务器端请求的发起与接收过程
+subtitle: 记忆碎片
+gh-repo: violet-ff1/blog
+comments: true
+tags: [JavaWeb]
+---
+BS架构与CS架构区别
+1、CS需要安装，但是一些简单的计算可以在客户端完成，更新需要安装包
+2、BS无需安装，浏览器运行，计算多在服务器端完成。
+
+客户端与服务器端的通信
+1、客户端发起请求。
+2、服务器端收到请求并响应页面。
+3、客户端根据页面中的form表单发起提交。
+4、服务器端收到form表单内容，根据form表单的action地址找到对应的servlet-name（通过mapping映射的方法），然后完成servlet-class中对应的form表单的get或post的doGet()或doPost的方法（处理业务层）。业务层中再调用Dao层接口实现对数据库的操作。
+
+IDEA中的使用tomcat并非直接将web模块部署到tomcat的webApps下的目录，故而需要配合使用IDEA中的artifacts进行管理。
